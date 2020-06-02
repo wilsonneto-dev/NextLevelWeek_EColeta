@@ -1,0 +1,2 @@
+Initializing the web app:
+npx create-react-app web --template=typescript
