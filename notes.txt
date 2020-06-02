@@ -1,2 +1,5 @@
 Initializing the web app:
 npx create-react-app web --template=typescript
+
+Migrations com o knex:
+npx  knex migrate:latest --knexfile knexfile.ts migrate:latest

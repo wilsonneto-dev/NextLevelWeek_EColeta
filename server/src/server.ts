@@ -1,9 +1,10 @@
 import express, { Request, Response } from 'express';
 
+import routes from './routes';
+
 const app = express();
 
-app.get('/test', (req: Request, res: Response) => {
-  res.json({ message: 'Teste de mensagem' });
-});
+app.use(express.json());
+app.use(routes);
 
 app.listen(3333);
