@@ -1,10 +1,35 @@
-import express, { Request, Response } from 'express';
-
+import express, { Request, Response, Express } from 'express';
+import path from 'path';
 import routes from './routes';
 
-const app = express();
+class Server {
+  private app: Express;
 
-app.use(express.json());
-app.use(routes);
+  constructor() {
+    this.app = express();
+  }
 
-app.listen(3333);
+  private middlewares() {
+    this.app.use(express.json());
+    this.app.use(routes);
+    this.app.use(
+      '/uploads',
+      express.static(path.resolve(__dirname, '..', 'uploads'))
+    );
+  }
+
+  private listen() {
+    const port = 3333;
+    this.app.listen(port, () => {
+      console.log(`Listening on: ${port}`);
+    });
+  }
+
+  public startUp(): void {
+    this.middlewares();
+    this.listen();
+  }
+}
+
+const server = new Server();
+server.startUp();
