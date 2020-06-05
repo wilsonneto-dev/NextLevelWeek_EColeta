@@ -28,13 +28,13 @@
 
 # :pushpin: Table of Contents
 
-* NodeJS API
-* Deno API
-* ReactJS App
-* React Native App
+* NodeJS API :white_check_mark:
+* Deno API 
+* ReactJS App :white_check_mark:
+* React Native App :white_check_mark:
 
 
-# :postbox: Faq
+# :postbox: Get in touch to me
 
 **E-mail:** contato@wilsonneto.com.br
 
