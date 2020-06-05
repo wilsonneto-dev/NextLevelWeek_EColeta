@@ -36,7 +36,7 @@
 
 # :postbox: Get in touch to me
 
-**E-mail:** contato@wilsonneto.com.br
+**E-mail:** hi@wilsonneto.com.br
 
 **Linkedin:** [https://www.linkedin.com/in/wilsonnetobr/](https://www.linkedin.com/in/wilsonnetobr/)
 
