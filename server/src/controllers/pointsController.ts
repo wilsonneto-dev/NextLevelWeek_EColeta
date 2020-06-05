@@ -35,7 +35,7 @@ class PointsController {
       .join('point_items', 'items.id', '=', 'point_items.item_id')
       .where('point_items.point_id', id);
 
-    return response.json({ ...point, items });
+    return response.json({ point, items });
   }
 
   async create(request: Request, response: Response) {
