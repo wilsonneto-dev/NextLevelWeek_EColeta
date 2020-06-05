@@ -13,9 +13,9 @@
 > Next Level Week #1 - Project made at the workshop
 
 <p align="center">
-  <img align="center" src=".github/mob-home.jpg" alt="App Home" width="300" border="0">
-  <img align="center" src=".github/mob-list.jpg" alt="App Home" width="300" border="0">
-  <img align="center" src=".github/mob-details.jpg" alt="App Home" width="300" border="0">
+  <img align="center" src=".github/mob-home.jpg" alt="App Home" width="275" border="0">
+  <img align="center" src=".github/mob-list.jpg" alt="App Home" width="275" border="0">
+  <img align="center" src=".github/mob-details.jpg" alt="App Home" width="275" border="0">
 </p>
 <p align="center">
   <img align="center" src=".github/web-home.png" alt="App Home" width="750" border="0">
