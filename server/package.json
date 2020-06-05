@@ -19,6 +19,7 @@
     "typescript": "^3.9.3"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "knex": "^0.21.1",
     "sqlite3": "^4.2.0"
