@@ -21,7 +21,7 @@ class Server {
   private listen() {
     const port = 3333;
     this.app.listen(port, () => {
-      console.log(`Listening on: ${port}`);
+      console.log(`Listening on port: ${port}`);
     });
   }
 
