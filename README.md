@@ -7,7 +7,8 @@
 
 [![Author](https://img.shields.io/badge/author-WilsonNetoDev-AD1256?style=flat-square)](https://github.com/wilsonneto-dev)
 [![Languages](https://img.shields.io/github/languages/count/wilsonneto-dev/Rocketseat_NextLevelWeek1?color=%23AD1256&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/wilsonneto-dev/Rocketseat_NextLevelWeek1?color=AD1256&style=flat-square)](https://github.com/LauraBeatris/gobarber-mobile/stargazers)
+[![Stars]](https://img.shields.io/github/stars/wilsonneto-dev/Rocketseat_NextLevelWeek1?style=social)
+![GitHub forks](https://img.shields.io/github/forks/wilsonneto-dev/Rocketseat_NextLevelWeek1?style=social)
 
 > Next Level Week #1 - Project made at the workshop
 
