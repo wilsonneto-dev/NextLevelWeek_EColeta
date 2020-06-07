@@ -1,4 +1,5 @@
 import express, { Request, Response, Express } from 'express';
+import { errors } from 'celebrate';
 import cors from 'cors';
 import path from 'path';
 import routes from './routes';
@@ -18,6 +19,7 @@ class Server {
       '/uploads',
       express.static(path.resolve(__dirname, '..', 'uploads'))
     );
+    this.app.use(errors());
   }
 
   private listen() {
