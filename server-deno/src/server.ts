@@ -10,6 +10,10 @@ class Server {
   }
 
   private middlewares() {
+    this.app.addEventListener("error", (evt: any) => {
+      console.log(evt.error);
+    });
+
     this.app.use(router.routes());
   }
 
