@@ -7,14 +7,15 @@
 
 [![Author](https://img.shields.io/badge/author-WilsonNetoDev-AD1256?style=flat-square)](https://github.com/wilsonneto-dev)
 [![Languages](https://img.shields.io/github/languages/count/wilsonneto-dev/Rocketseat_NextLevelWeek1?color=%23AD1256&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/wilsonneto-dev/Rocketseat_NextLevelWeek1?color=AD1256&style=flat-square)](https://github.com/LauraBeatris/gobarber-mobile/stargazers)
+![GitHub stars](https://img.shields.io/github/stars/wilsonneto-dev/Rocketseat_NextLevelWeek1?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/wilsonneto-dev/Rocketseat_NextLevelWeek1?style=flat-square)
 
 > Next Level Week #1 - Project made at the workshop
 
 <p align="center">
-  <img align="center" src=".github/mob-home.jpg" alt="App Home" width="300" border="0">
-  <img align="center" src=".github/mob-list.jpg" alt="App Home" width="300" border="0">
-  <img align="center" src=".github/mob-details.jpg" alt="App Home" width="300" border="0">
+  <img align="center" src=".github/mob-home.jpg" alt="App Home" width="275" border="0">
+  <img align="center" src=".github/mob-list.jpg" alt="App Home" width="275" border="0">
+  <img align="center" src=".github/mob-details.jpg" alt="App Home" width="275" border="0">
 </p>
 <p align="center">
   <img align="center" src=".github/web-home.png" alt="App Home" width="750" border="0">
@@ -27,15 +28,15 @@
 
 # :pushpin: Table of Contents
 
-* NodeJS API
-* Deno API
-* ReactJS App
-* React Native App
+* NodeJS API :white_check_mark:
+* Deno API 
+* ReactJS App :white_check_mark:
+* React Native App :white_check_mark:
 
 
-# :postbox: Faq
+# :postbox: Get in touch to me
 
-**E-mail:** contato@wilsonneto.com.br
+**E-mail:** hi@wilsonneto.com.br
 
 **Linkedin:** [https://www.linkedin.com/in/wilsonnetobr/](https://www.linkedin.com/in/wilsonnetobr/)
 
