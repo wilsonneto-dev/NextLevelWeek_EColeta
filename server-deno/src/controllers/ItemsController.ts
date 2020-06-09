@@ -8,7 +8,6 @@ class ItemsController {
   }
 
   async list({ response }: { response: any }) {
-    console.log(this);
     const items = await this._itemService.getAll();
     response.body = items;
   }
